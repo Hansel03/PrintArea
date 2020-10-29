@@ -21,6 +21,7 @@
     "publishConfig": {
         "access": "public"
     },
+    "bundleDependencies": false,
     "dependencies": {
         "jquery": ">=1.9",
         "jquery-ui": ">=1.10.4"
