@@ -1,6 +1,6 @@
 {
     "name": "print-area-js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Prints a specific area of the page. Using json settings, the printed area is either opened in a popup or in a hidden iframe.",
     "contributors": [
         "Hansel Suarez <hanselcapillo@hotmail.com>"
@@ -31,5 +31,11 @@
     "bugs": {
         "url": "https://github.com/Hansel03/PrintArea/issues"
     },
-    "homepage": "https://github.com/Hansel03/PrintArea#readme"
+    "homepage": "https://github.com/Hansel03/PrintArea#readme",
+    "ignore": [
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
